@@ -23,3 +23,7 @@ If you want results in the report:
 run `python test.py -m qwen -p self_planning -v ...`
 
 select `-v` from nothing for original coverage, `_up1` for improvement iteration 1, `_up2` for improvement iteration 2.
+
+# generating test cases
+
+run `generate_new_test_cases.py`, specifying the input dir like `tests` and the output dir like `tests_up1`.
