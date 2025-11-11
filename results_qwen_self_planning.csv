@@ -1,0 +1,2 @@
+test_name,pass_rate,line_cov,branch_cov,interpretation
+test_rounded_avg,0.0,100.0,100.0,Good overall coverage

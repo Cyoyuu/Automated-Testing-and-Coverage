@@ -28,7 +28,7 @@ Based on the following task description, please generate some test cases (<=3) t
         max_tokens=150,
     )
     test_cases = plan_resp.choices[0].message.content.strip()
-    time.sleep(5)
+    time.sleep(20)
 
     # 2) Ask for code using that plan; instruct to output only CODE: and nothing else
     code_prompt = f"""
@@ -48,7 +48,7 @@ Test cases:
         max_tokens=512,
     )
     code_text = code_resp.choices[0].message.content
-    time.sleep(5)
+    time.sleep(20)
 
     # 2) Ask for code using that plan; instruct to output only CODE: and nothing else
     code_prompt = f"""
@@ -91,7 +91,7 @@ for tid, task in subset.items():
     results.append({"task_id": tid, "completion": code, "plan": plan})
     print(tid, "plan ->", plan.splitlines())
     print("code preview:", code.splitlines()[0])
-    time.sleep(10)
+    time.sleep(20)
     
 
 # Save for later evaluation (only completion used by human-eval)

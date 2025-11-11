@@ -9,6 +9,9 @@ print(subset)
 
 import json
 
-with open("humaneval_subset.jsonl", "w") as f:
+with open("humaneval_subset_tmp.jsonl", "w") as f:
     for task in subset:
+        task[1].pop('entry_point')
+        # task[1].pop('test')
+        task[1].pop('canonical_solution')
         f.write(json.dumps(task[1]) + "\n")

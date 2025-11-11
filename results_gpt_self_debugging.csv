@@ -1,0 +1,12 @@
+test_name,pass_rate,line_cov,branch_cov,interpretation
+__init__,0.0,100.0,100.0,Good overall coverage
+test_by_length,1.0,100.0,100.0,Good overall coverage
+test_choose_num,1.0,85.71,83.33,Good overall coverage
+test_count_nums,0.5,100.0,100.0,Good overall coverage
+test_even_odd_palindrome,1.0,100.0,100.0,Good overall coverage
+test_f,1.0,100.0,100.0,Good overall coverage
+test_make_a_pile,1.0,100.0,100.0,Good overall coverage
+test_move_one_ball,1.0,88.89,83.33,Good overall coverage
+test_rounded_avg,1.0,85.71,50.0,Good overall coverage
+test_unique_digits,1.0,100.0,100.0,Good overall coverage
+test_words_string,1.0,100.0,100.0,Good overall coverage

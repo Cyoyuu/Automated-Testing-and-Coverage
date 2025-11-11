@@ -1,0 +1,332 @@
+{
+  "__init__": {
+    "gpt_self_planning": {
+      "test_name": "__init__",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "__init__",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "__init__",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "__init__",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_by_length": {
+    "gpt_self_planning": {
+      "test_name": "test_by_length",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_by_length",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_by_length",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_by_length",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_choose_num": {
+    "gpt_self_planning": {
+      "test_name": "test_choose_num",
+      "pass_rate": 0.5,
+      "line_cov": 80.0,
+      "branch_cov": 75.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_choose_num",
+      "pass_rate": 1.0,
+      "line_cov": 85.71,
+      "branch_cov": 83.33,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_choose_num",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_choose_num",
+      "pass_rate": 1.0,
+      "line_cov": 85.71,
+      "branch_cov": 83.33,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_count_nums": {
+    "gpt_self_planning": {
+      "test_name": "test_count_nums",
+      "pass_rate": 0.88,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_count_nums",
+      "pass_rate": 0.5,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_count_nums",
+      "pass_rate": 0.5,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_count_nums",
+      "pass_rate": 0.5,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_even_odd_palindrome": {
+    "gpt_self_planning": {
+      "test_name": "test_even_odd_palindrome",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_even_odd_palindrome",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_even_odd_palindrome",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_even_odd_palindrome",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_f": {
+    "gpt_self_planning": {
+      "test_name": "test_f",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_f",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_f",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_f",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_make_a_pile": {
+    "gpt_self_planning": {
+      "test_name": "test_make_a_pile",
+      "pass_rate": 0.6,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_make_a_pile",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_make_a_pile",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_make_a_pile",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_move_one_ball": {
+    "gpt_self_planning": {
+      "test_name": "test_move_one_ball",
+      "pass_rate": 1.0,
+      "line_cov": 88.89,
+      "branch_cov": 83.33,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_move_one_ball",
+      "pass_rate": 1.0,
+      "line_cov": 88.89,
+      "branch_cov": 83.33,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_move_one_ball",
+      "pass_rate": 1.0,
+      "line_cov": 87.5,
+      "branch_cov": 83.33,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_move_one_ball",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_rounded_avg": {
+    "gpt_self_planning": {
+      "test_name": "test_rounded_avg",
+      "pass_rate": 1.0,
+      "line_cov": 80.0,
+      "branch_cov": 50.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_rounded_avg",
+      "pass_rate": 1.0,
+      "line_cov": 85.71,
+      "branch_cov": 50.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_rounded_avg",
+      "pass_rate": 1.0,
+      "line_cov": 83.33,
+      "branch_cov": 50.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_rounded_avg",
+      "pass_rate": 0.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_unique_digits": {
+    "gpt_self_planning": {
+      "test_name": "test_unique_digits",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_unique_digits",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_unique_digits",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_unique_digits",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  },
+  "test_words_string": {
+    "gpt_self_planning": {
+      "test_name": "test_words_string",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "gpt_self_debugging": {
+      "test_name": "test_words_string",
+      "pass_rate": 1.0,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_debugging": {
+      "test_name": "test_words_string",
+      "pass_rate": 0.25,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    },
+    "qwen_self_planning": {
+      "test_name": "test_words_string",
+      "pass_rate": 0.25,
+      "line_cov": 100.0,
+      "branch_cov": 100.0,
+      "interpretation": "Good overall coverage"
+    }
+  }
+}
